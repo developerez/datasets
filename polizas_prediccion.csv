@@ -1,0 +1,26 @@
+cliente_id,respuesta,genero,estado,prima_mensual,meses_sin_reclamo,meses_poliza,reclamos,polizas,poliza_tipo,canal
+BU79786,No,F,Married,69,32,5,0,1,Corporate Auto,Agent
+QZ44356,No,F,Single,94,13,42,0,8,Personal Auto,Agent
+WI75766,Yes,F,Divorced,90,18,84,0,2,Personal Auto,Agent
+DR27120,No,F,Married,80,2,49,1,1,Corporate Auto,Web
+UQ67668,Yes,M,Married,70,21,50,0,3,Personal Auto,Agent
+PR64751,No,M,Married,71,10,22,0,1,Corporate Auto,Agent
+CL79250,No,M,Married,182,8,70,0,2,Corporate Auto,Agent
+ZR72236,No,M,Married,65,3,30,0,9,Personal Auto,Branch
+SG52649,Yes,M,Married,117,17,41,1,9,Corporate Auto,Web
+SG96896,No,M,Single,71,16,30,1,2,Personal Auto,Call Center
+QJ50723,No,F,Married,124,13,70,0,2,Personal Auto,Branch
+NU64028,No,M,Divorced,103,8,63,0,2,Personal Auto,Branch
+PM63319,No,F,Single,65,7,67,0,7,Personal Auto,Agent
+YG46815,No,M,Single,136,13,28,0,4,Personal Auto,Agent
+XF94149,No,M,Married,104,7,61,0,1,Personal Auto,Branch
+ME99882,No,M,Married,116,5,55,0,4,Personal Auto,Call Center
+YZ67161,Yes,M,Single,125,6,61,0,2,Personal Auto,Agent
+WA45944,Yes,F,Married,214,8,89,1,2,Corporate Auto,Branch
+UM53032,No,M,Married,76,5,13,0,5,Corporate Auto,Agent
+LW43115,Yes,F,Married,69,2,70,1,1,Personal Auto,Web
+YK93229,No,M,Married,90,8,33,0,1,Personal Auto,Call Center
+FH65253,No,M,Married,87,28,94,0,2,Personal Auto,Branch
+IH43245,No,M,Divorced,97,14,85,0,6,Corporate Auto,Agent
+TO20795,No,M,Single,104,23,18,0,2,Corporate Auto,Agent
+TO14996,No,M,Married,70,2,22,0,9,Personal Auto,Branch

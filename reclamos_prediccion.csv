@@ -1,0 +1,30 @@
+Region,State,Area,City,Consumer_profile,Product_type,AC_1001_Issue,AC_1002_Issue,AC_1003_Issue,TV_2001_Issue,TV_2002_Issue,TV_2003_Issue,Claim_Value,Service_Centre,Product_Age,Purchased_from,Call_details,Purpose
+South,Bihar,Urban,Purnea,Business,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim
+West,Maharashtra,Rural,Mumbai,Business,TV,0,0,0,0,2,0,20000,12,18,Dealer,2.5,Claim
+East,Delhi,Urban,New Delhi,Personal,TV,0,0,0,1,1,1,25000,13,60,Dealer,1.3,Complaint
+North,Bihar,Urban,Purnea,Personal,AC,0,1,1,0,0,0,12000,15,10,Internet,1.4,Complaint
+North East,Gujarat,Rural,Ahmedabad,Personal,TV,0,0,0,1,1,1,15000,15,12,Manufacturer,1.6,Complaint
+North West,Gujarat,Urban,Vadodara,Personal,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Claim
+South East,Maharashtra,Urban,Mumbai,Business,AC,0,0,1,0,0,0,50000,12,6,Dealer,2.4,Claim
+South West,Kerala,Rural,Kochi,Business,AC,0,2,0,0,0,0,20000,13,3,Manufacturer,6.5,Claim
+North,Jammu and Kashmir,Rural,Srinagar,Personal,TV,0,0,0,0,2,0,1571,11,55,Dealer,30,Claim
+South West,Goa,Urban,Panaji,Business,TV,0,0,0,0,1,1,4000,15,363,Dealer,30,Other
+South East,Andhra Pradesh,Urban,Hyderabad,Business,TV,0,0,0,1,1,0,4805,12,948,Dealer,3,Claim
+North East,Assam,Urban,Guwhati,Personal,TV,0,0,0,1,2,0,3501,14,43,Dealer,30,Other
+West,Gujarat,Urban,Ahmedabad,Personal,AC,1,1,2,0,0,0,7755,13,550,Dealer,30,Claim
+North West,Rajasthan,Urban,Jaipur,Business,AC,1,1,2,0,0,0,6956,11,117,Manufacturer,6,Other
+South,Karnataka,Urban,Bangalore,Personal,AC,1,1,2,0,0,0,6542,13,271,Dealer,4,Claim
+South East,Andhra Pradesh,Urban,Hyderabad,Business,TV,0,0,0,0,1,0,170,11,371,Dealer,30,Other
+West,Gujarat,Urban,Ahmedabad,Personal,AC,1,1,2,0,0,0,6993,15,505,Manufacturer,7,Complaint
+South East,Andhra Pradesh,Rural,Vizag,Personal,AC,0,1,0,0,0,0,4948,13,942,Manufacturer,30,Claim
+South,Karnataka,Rural,Bangalore,Business,TV,0,0,0,0,2,0,3549,13,199,Internet,30,Other
+North West,Madhya Pradesh,Rural,Bhopal,Personal,TV,0,0,0,1,1,1,7725,11,960,Manufacturer,30,Other
+North,Delhi,Urban,Delhi,Personal,TV,0,0,0,0,2,1,2538,14,353,Dealer,30,Complaint
+South,Karnataka,Urban,Bangalore,Business,AC,0,1,0,0,0,0,2000,15,187,Manufacturer,10,Complaint
+South,Andhra Pradesh,Urban,Hyderabad,Personal,AC,1,0,0,0,0,0,2000,15,52,Dealer,6,Complaint
+North West,Rajasthan,Urban,Jaipur,Personal,AC,2,0,0,0,0,0,5000,11,118,Internet,23,Complaint
+West,Maharashtra,Urban,Mumbai,Personal,TV,0,0,0,2,1,1,9000,14,173,Manufacturer,7,Claim
+West,Maharashtra,Urban,Mumbai,Personal,TV,0,0,0,1,2,0,7000,14,43,Dealer,17,Claim
+West,Maharashtra,Urban,Mumbai,Business,TV,0,0,0,2,0,0,5000,14,197,Internet,13,Complaint
+West,Maharashtra,Urban,Mumbai,Personal,AC,1,0,0,0,0,0,2000,14,304,Internet,20,Claim
+West,Maharashtra,Urban,Mumbai,Personal,AC,2,0,0,0,0,0,5000,14,167,Manufacturer,9,Complaint
